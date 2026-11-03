@@ -1,0 +1,6 @@
+{
+  "name": "Open-Subsurface-Engine (OSE)",
+  "description": "Multi-sensory 3D planetary diagnostic and exploration platform unifying real-time seismic, volcanic, geothermal, and mineral data with Web Audio sonification.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

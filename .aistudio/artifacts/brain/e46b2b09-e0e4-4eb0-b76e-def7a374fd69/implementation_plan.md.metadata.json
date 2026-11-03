@@ -1,0 +1,6 @@
+{
+  "summary":  "Implementation plan for Open-Subsurface-Engine (OSE), featuring an interactive 3D WebGL Earth globe with subsurface depth grids, Dual Mode switching (Disaster Safety vs. Clean Energy Resources), real-time USGS seismic feeds, and native Web Audio depth-to-pitch sonification.",
+  "updatedAt":  "2026-10-26T12:13:22.742110309Z",
+  "requestFeedback":  true,
+  "userFacing":  true
+}
